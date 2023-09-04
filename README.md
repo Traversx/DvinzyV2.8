@@ -18,7 +18,7 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/Traversx/Crack.git
+git clone https://github.com/Traversx/DvinzyV2.8.git
 
 cd Crack
 
